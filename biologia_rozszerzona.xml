@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podstawaProgamowa szkola="ponadpodstawowa" przedmiot="biologia" zakres="rozszerzony" obowiazujeOd="01-09-2025">
+    <dzial>
+        <nazwa>Chemizm życia</nazwa> 
+        <rozdzial>
+            <nazwa>Składniki nieorganiczne</nazwa>
+            <wymaganie>przedstawia znaczenie biologiczne makroelementów, w tym pierwiastków biogennych</wymaganie>
+            <wymaganie>przedstawia znaczenie biologiczne wybranych mikroelementów (Fe, J, Cu, Co, F)</wymaganie>
+            <wymaganie>wyjaśnia rolę wody w życiu organizmów, z uwzględnieniem jej właściwości fizycznych i chemicznych</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Składniki organiczne</nazwa>
+            <wymaganie>przedstawia budowę węglowodanów (uwzględniając wiązania glikozydowe α, β); rozróżnia monosacharydy (glukoza, fruktoza, galaktoza, ryboza, deoksyryboza), disacharydy (sacharoza, laktoza, maltoza), polisacharydy (skrobia, glikogen, celuloza, chityna) i określa znaczenie biologiczne węglowodanów, uwzględniając ich właściwości fizyczne i chemiczne; planuje oraz przeprowadza doświadczenie wykazujące obecność monosacharydów i polisacharydów w materiale biologicznym</wymaganie>
+            <wymaganie>przedstawia budowę białek (uwzględniając wiązania peptydowe); rozróżnia białka proste i złożone; opisuje strukturę I-, II-, III- i IV-rzędową białek; planuje i przeprowadza doświadczenie wykazujące obecność białek w materiale biologicznym; przedstawia wpływ czynników fizycznych i chemicznych na białko (zjawisko koagulacji i denaturacji); określa biologiczne znaczenie białek (albuminy, globuliny, histony, kolagen, keratyna, fibrynogen, hemoglobina, mioglobina); przeprowadza obserwacje wpływu wybranych czynników fizycznych i chemicznych na białko</wymaganie>
+            <wymaganie>przedstawia budowę lipidów (uwzględniając wiązania estrowe); rozróżnia lipidy proste i złożone, przedstawia właściwości lipidów oraz określa ich znaczenie biologiczne; planuje i przeprowadza doświadczenie wykazujące obecność lipidów w materiale biologicznym</wymaganie>
+            <wymaganie>porównuje skład chemiczny i strukturę cząsteczek DNA i RNA, z uwzględnieniem rodzajów wiązań występujących w tych cząsteczkach; określa znaczenie biologiczne kwasów nukleinowych</wymaganie>
+        </rozdzial>
+    </dzial>
+    <dzial>
+        <nazwa>Komórka</nazwa>
+        <wymaganie>rozpoznaje elementy budowy komórki eukariotycznej na preparacie mikroskopowym, na mikrofotografii, rysunku lub na schemacie</wymaganie>
+        <wymaganie>wykazuje związek budowy błony komórkowej z pełnionymi przez nią funkcjami</wymaganie>
+        <wymaganie>rozróżnia rodzaje transportu do i z komórki (dyfuzja prosta i wspomagana, transport aktywny, endocytoza i egzocytoza)</wymaganie>
+        <wymaganie>wyjaśnia rolę błony komórkowej i tonoplastu w procesach osmotycznych; planuje i przeprowadza doświadczenie wykazujące zjawisko osmozy wywołane różnicą stężeń wewnątrz i na zewnątrz komórki; planuje i przeprowadza obserwację zjawiska plazmolizy</wymaganie>
+        <wymaganie>przedstawia budowę jądra komórkowego i jego rolę w funkcjonowaniu komórki</wymaganie>
+        <wymaganie>opisuje budowę rybosomów, ich powstawanie i pełnioną funkcję oraz określa ich w komórce</wymaganie>
+        <wymaganie>przedstawia błony wewnątrzkomórkowe jako zintegrowany system strukturalno-funkcjonalny oraz określa jego rolę w kompartmentacji komórki</wymaganie>
+        <wymaganie>opisuje budowę mitochondriów i plastydów ze szczególnym uwzględnieniem chloroplastów; dokonuje obserwacji mikroskopowych plastydów w materiale biologicznym</wymaganie>
+        <wymaganie>przedstawia argumenty przemawiające za endosymbiotycznym pochodzeniem mitochondriów i chloroplastów</wymaganie>
+        <wymaganie>wykazuje związek budowy ściany komórkowej z pełnioną funkcją oraz wskazuje grupy organizmów, u których ona występuje</wymaganie>
+        <wymaganie>przedstawia znaczenie wakuoli w funkcjonowaniu komórki roślinnej</wymaganie>
+        <wymaganie>przedstawia znaczenie cytoszkieletu w ruchu komórek, transporcie wewnątrzkomórkowym, podziałach komórkowych oraz stabilizacji struktury komórki; dokonuje obserwacji mikroskopowych ruchów cytoplazmy w komórkach roślinnych</wymaganie>
+        <wymaganie>wykazuje różnice w budowie komórki prokariotycznej i eukariotycznej</wymaganie>
+        <wymaganie>wykazuje różnice w budowie komórki roślinnej, grzybowej i zwierzęcej</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Energia i metabolizm</nazwa>
+        <rozdizal>
+            <nazwa>Podstawowe zasady metabolizmu</nazwa>
+            <wymaganie>wyjaśnia, na przykładach, pojęcia: szlaku i cyklu metabolicznego</wymaganie>
+            <wymaganie>porównuje istotę procesów anabolicznych i katabolicznych oraz wykazuje, że są ze sobą powiązane</wymaganie>
+        </rozdizal>
+        <rozdizal>
+            <nazwa>Przenośniki energii oraz protonów i elektronów w komórce</nazwa>
+            <wymaganie>wykazuje związek budowy ATP z jego rolą biologiczną</wymaganie>
+            <wymaganie>przedstawia znaczenie NAD+, FAD, NADP+ w procesach utleniania i redukcji</wymaganie>
+        </rozdizal>
+        <rozdizal>
+            <nazwa>Enzymy</nazwa>
+            <wymaganie>przedstawia charakterystyczne cechy budowy enzymu</wymaganie>
+            <wymaganie>wyjaśnia, na czym polega swoistość substratowa enzymu oraz opisuje katalizę enzymatyczną</wymaganie>
+            <wymaganie>przedstawia sposoby regulacji aktywności enzymów (aktywacja, inhibicja)</wymaganie>
+            <wymaganie>wyjaśnia mechanizm sprzężenia zwrotnego ujemnego jako sposobu regulacji przebiegu szlaków metabolicznych</wymaganie>
+            <wymaganie>wyjaśnia wpływ czynników fizyko-chemicznych (temperatury, pH, stężenia substratu) na przebieg katalizy enzymatycznej; planuje i przeprowadza doświadczenie badające wpływ różnych czynników na aktywność enzymów (katalaza, proteinaza)</wymaganie>
+        </rozdizal>
+        <rozdizal>
+            <nazwa>Fotosynteza</nazwa>
+            <wymaganie>wykazuje związek budowy chloroplastu z przebiegiem procesu fotosyntezy</wymaganie>
+            <wymaganie>przedstawia rolę barwników i fotosystemów w procesie fotosyntezy</wymaganie>
+            <wymaganie>analizuje na podstawie schematu przebieg fazy zależnej od światła oraz fazy niezależnej od światła; wyróżnia substraty i produkty obu faz; wykazuje rolę składników siły asymilacyjnej w fazie niezależnej od światła</wymaganie>
+            <wymaganie>wyjaśnia mechanizm powstawania ATP w procesie chemiosmozy w chloroplaście</wymaganie>
+            <wymaganie>porównuje na podstawie schematu fotofosforylację cykliczną i niecykliczną</wymaganie>
+        </rozdizal>
+        <rozdizal>
+            <nazwa>Pozyskiwanie energii użytecznej biologicznie</nazwa>
+            <wymaganie>wykazuje związek budowy mitochondrium z przebiegiem procesu oddychania komórkowego</wymaganie>
+            <wymaganie>analizuje na podstawie schematu przebieg glikolizy, reakcji pomostowej i cyklu Krebsa, wyróżnia substraty i produkty tych procesów</wymaganie>
+            <wymaganie>przedstawia, na czym polega fosforylacja substratowa</wymaganie>
+            <wymaganie>wyjaśnia mechanizm powstawania ATP w procesie chemiosmozy w mitochondriach (fosforylacja oksydacyjna)</wymaganie>
+            <wymaganie>porównuje drogi przemiany pirogronianu w fermentacji alkoholowej, mleczanowej i w oddychaniu tlenowym</wymaganie>
+            <wymaganie>wyjaśnia, dlaczego utlenianie substratu energetycznego w warunkach tlenowych dostarcza więcej energii niż w warunkach beztlenowych</wymaganie>
+            <wymaganie>analizuje na podstawie schematu przebieg utleniania kwasów tłuszczowych, syntezy kwasów tłuszczowych, glukoneogenezy, glikogenolizy i wykazuje związek tych procesów z pozyskiwaniem energii przez komórkę</wymaganie>
+        </rozdizal>
+    </dzial>
+    <dzial>
+        <nazwa>Podziały komórkowe</nazwa>
+        <wymaganie>przedstawia organizację materiału genetycznego w komórce</wymaganie>
+        <wymaganie>wyjaśnia mechanizm replikacji DNA, z uwzględnieniem roli enzymów (helikaza, prymaza, polimeraza DNA, ligaza)</wymaganie>
+        <wymaganie>opisuje cykl komórkowy, z uwzględnieniem zmian ilości DNA w poszczególnych jego etapach; uzasadnia konieczność replikacji DNA przed podziałem komórki</wymaganie>
+        <wymaganie>opisuje przebieg kariokinezy podczas mitozy i mejozy</wymaganie>
+        <wymaganie>rozpoznaje (na preparacie mikroskopowym, na schemacie, rysunku, mikrofotografii) poszczególne etapy mitozy i mejozy</wymaganie>
+        <wymaganie>porównuje przebieg cytokinezy w komórkach roślinnych i zwierzęcych</wymaganie>
+        <wymaganie>przedstawia znaczenie mitozy i mejozy w zachowaniu ciągłości życia na Ziemi</wymaganie>
+        <wymaganie>wyjaśnia znaczenie procesu crossing-over i niezależnej segregacji chromosomów jako źródeł zmienności rekombinacyjnej i różnorodności biologicznej</wymaganie>
+        <wymaganie>przedstawia apoptozę jako proces warunkujący prawidłowy rozwój i funkcjonowanie organizmów wielokomórkowych</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Zasady klasyfikacji i sposoby identyfikacji organizmów</nazwa>
+        <rozdzial>
+            <nazwa/>
+            <wymaganie>wnioskuje na podstawie analizy kladogramów o pokrewieństwie ewolucyjnym organizmów</wymaganie>
+            <wymaganie>rozróżnia na drzewie filogenetycznym grupy monofiletyczne, parafiletyczne i polifiletyczne; wykazuje, że klasyfikacja organizmów oparta jest na ich filogenezie</wymaganie>
+            <wymaganie>ustala przynależność gatunkową organizmu, stosując właściwy klucz do oznaczania organizmów; porządkuje hierarchicznie podstawowe rangi taksonomiczne</wymaganie>
+        </rozdzial>
+    </dzial>
+    <dzial>
+        <nazwa>Bakterie i archeowce</nazwa>
+        <wymaganie>przedstawia budowę komórki prokariotycznej, z uwzględnieniem różnic w budowie ściany komórkowej bakterii Gram-dodatnich i Gram-ujemnych</wymaganie>
+        <wymaganie>wyjaśnia różnice między archeowcami i bakteriami; przedstawia znaczenie archeowców; przedstawia różnorodność form morfologicznych bakterii</wymaganie>
+        <wymaganie>przedstawia czynności życiowe bakterii: odżywianie (chemoautotrofizm, fotoautotrofizm, heterotrofizm); oddychanie beztlenowe (denitryfikacja, fermentacja) i tlenowe; rozmnażanie</wymaganie>
+        <wymaganie>wykazuje znaczenie procesów płciowych w zmienności genetycznej bakterii</wymaganie>
+        <wymaganie>przedstawia znaczenie bakterii w przyrodzie i dla człowieka, w tym wywołujących choroby człowieka (gruźlica, tężec, borelioza, salmonelloza, kiła, rzeżączka)</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Grzyby</nazwa>
+        <wymaganie>przedstawia różnorodność morfologiczną grzybów</wymaganie>
+        <wymaganie>przedstawia czynności życiowe grzybów: odżywianie, oddychanie i rozmnażanie; planuje i przeprowadza doświadczenie wykazujące, że drożdże przeprowadzają fermentację alkoholową</wymaganie>
+        <wymaganie>porównuje na podstawie analizy schematów cykle życiowe grzybów (sprzężniaków, workowców i podstawczaków) i rozróżnia poszczególne fazy jądrowe (haplofaza, dikariofaza, diplofaza)</wymaganie>
+        <wymaganie>przedstawia porosty jako organizmy symbiotyczne i wyjaśnia ich rolę jako organizmów wskaźnikowych</wymaganie>
+        <wymaganie>przedstawia drogi zarażenia się i zasady profilaktyki chorób wywołanych przez grzyby (grzybice skóry, narządów płciowych, płuc)</wymaganie>
+        <wymaganie>przedstawia znaczenie grzybów, w tym porostów w przyrodzie i dla człowieka</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Protisty</nazwa>
+        <wymaganie>przedstawia formy morfologiczne protistów</wymaganie>
+        <wymaganie>przedstawia czynności życiowe protistów: odżywianie, poruszanie się, rozmnażanie, wydalanie i osmoregulację; zakłada hodowlę protistów słodkowodnych i obserwuje wybrane czynności życiowe tych protistów</wymaganie>
+        <wymaganie>wykazuje związek budowy protistów ze środowiskiem i trybem ich życia (obecność aparatu ruchu, budowa błony komórkowej, obecność chloroplastów i wodniczek tętniących)</wymaganie>
+        <wymaganie>analizuje na podstawie schematów przebieg cykli rozwojowych protistów i rozróżnia poszczególne fazy jądrowe</wymaganie>
+        <wymaganie>przedstawia drogi zarażenia się i zasady profilaktyki chorób wywołanych przez protisty (malaria, toksoplazmoza, lamblioza, czerwonka pełzakowa, rzęsistkowica)</wymaganie>
+        <wymaganie>przedstawia znaczenie protistów (w tym prostitów fotosyntetyzujących i symbiotycznych) w przyrodzie i dla człowieka</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Różnorodność roślin</nazwa>
+        <rozdzial>
+            <nazwa>Rośliny pierwotnie wodne</nazwa>
+            <wymaganie>rozróżnia zielenice, krasnorosty i glaukocystofity</wymaganie>
+            <wymaganie>przedstawia znaczenie krasnorostów i zielenic w przyrodzie i dla człowieka</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Rośliny lądowe i wtórnie wodne</nazwa>
+            <wymaganie>określa różnice między warunkami życia w wodzie i na lądzie</wymaganie>
+            <wymaganie>przedstawia na przykładzie rodzimych gatunków cechy charakterystyczne mchów, widłakowych, skrzypowych, paprociowych i nasiennych oraz na podstawie tych cech identyfikuje organizm jako przedstawiciela jednej z tych grup</wymaganie>
+            <wymaganie>rozpoznaje tkanki roślinne na preparacie mikroskopowym (w tym wykonanym samodzielnie), na schemacie, mikrofotografii, na podstawie opisu i wykazuje związek ich budowy z pełnioną funkcją</wymaganie>
+            <wymaganie>przedstawia znaczenie połączeń międzykomórkowych w tkankach roślinnych</wymaganie>
+            <wymaganie>wykazuje związek budowy morfologicznej i anatomicznej (pierwotnej i wtórnej) organów wegetatywnych roślin z pełnionymi przez nie funkcjami</wymaganie>
+            <wymaganie>przedstawia cechy budowy roślin, które umożliwiły im zasiedlenie środowisk lądowych</wymaganie>
+            <wymaganie>uzasadnia, że modyfikacje organów wegetatywnych roślin są adaptacją do różnych warunków środowiska i pełnionych funkcji</wymaganie>
+            <wymaganie>rozróżnia rośliny jednoliścienne i dwuliścienne, wskazując ich charakterystyczne cechy</wymaganie>
+            <wymaganie>przedstawia znaczenie roślin dla człowieka</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Gospodarka wodna i odżywianie mineralne roślin</nazwa>
+            <wymaganie>wyjaśnia mechanizmy pobierania oraz transportu wody i soli mineralnych</wymaganie>
+            <wymaganie>planuje i przeprowadza obserwację pozwalającą na identyfikację tkanki przewodzącej wodę w roślinie; planuje i przeprowadza doświadczenie wykazujące występowanie płaczu roślin</wymaganie>
+            <wymaganie>wykazuje związek zmian potencjału osmotycznego i potencjału wody z otwieraniem i zamykaniem szparek; planuje i przeprowadza doświadczenie porównujące zagęszczenie (mniejsze, większe) i rozmieszczenie (górna, dolna strona blaszki liściowej) aparatów szparkowych u roślin różnych siedlisk</wymaganie>
+            <wymaganie>wykazuje wpływ czynników zewnętrznych (temperatura, światło, wilgotność, ruchy powietrza) na bilans wodny roślin; planuje i przeprowadza doświadczenie określające wpływ czynników zewnętrznych na intensywność transpiracji; planuje i przeprowadza doświadczenie wykazujące występowanie gutacji</wymaganie>
+            <wymaganie>opisuje wpływ suszy fizjologicznej na bilans wodny rośliny; planuje i przeprowadza doświadczenie określające wpływ stężenia roztworu glebowego na pobieranie wody przez rośliny</wymaganie>
+            <wymaganie>podaje dostępne dla roślin formy wybranych makroelementów (N, S)</wymaganie>
+            <wymaganie>przedstawia znaczenie wybranych makro- i mikroelementów (N, S, Mg, K, P, Ca, Fe) dla roślin</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Odżywianie się roślin</nazwa>
+            <wymaganie>określa drogi, jakimi do liści docierają substraty fotosyntezy</wymaganie>
+            <wymaganie>określa drogi, jakimi transportowane są produkty fotosyntezy</wymaganie>
+            <wymaganie>przedstawia adaptacje w budowie anatomicznej roślin do wymiany gazowej</wymaganie>
+            <wymaganie>przedstawia adaptacje anatomiczne i fizjologiczne roślin typu C4 i CAM do przeprowadzania fotosyntezy w określonych warunkach środowiska</wymaganie>
+            <wymaganie>analizuje wpływ czynników zewnętrznych i wewnętrznych na przebieg procesu fotosyntezy; planuje i przeprowadza doświadczenie wykazujące wpływ temperatury, natężenia światła i zawartości dwutlenku węgla na intensywność fotosyntezy</wymaganie>
+            <wymaganie>przedstawia udział innych organizmów (bakterie glebowe i symbiotyczne, grzyby) w pozyskiwaniu pokarmu przez rośliny</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Rozmnażanie i rozprzestrzenianie się roślin</nazwa>
+            <wymaganie>wykazuje, porównując na podstawie schematów, przemianę pokoleń mchów, paprociowych, widłakowych, skrzypowych, nagonasiennych i okrytonasiennych, stopniową redukcję gametofitu</wymaganie>
+            <wymaganie>przedstawia sposoby bezpłciowego rozmnażania się roślin</wymaganie>
+            <wymaganie>przedstawia budowę kwiatów roślin nasiennych</wymaganie>
+            <wymaganie>wykazuje związek budowy kwiatu roślin okrytonasiennych ze sposobem ich zapylania</wymaganie>
+            <wymaganie>opisuje sposób powstawania gametofitów roślin nasiennych</wymaganie>
+            <wymaganie>opisuje proces zapłodnienia i powstawania nasion u roślin nasiennych oraz owoców u okrytonasiennych</wymaganie>
+            <wymaganie>wykazuje związek budowy owocu ze sposobem rozprzestrzeniania się roślin okrytonasiennych</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Wzrost i rozwój roślin</nazwa>
+            <wymaganie>przedstawia budowę nasiona i rozróżnia nasiona bielmowe, bezbielmowe i obielmowe</wymaganie>
+            <wymaganie>przedstawia wpływ czynników zewnętrznych i wewnętrznych na proces kiełkowania nasion; planuje i przeprowadza doświadczenie określające wpływ wybranych czynników (woda, temperatura, światło, dostęp do tlenu) na proces kiełkowania nasion</wymaganie>
+            <wymaganie>planuje i przeprowadza obserwacje różnych typów kiełkowania nasion (epigeiczne i hypogeiczne) i wykazuje różnice między nimi</wymaganie>
+            <wymaganie>planuje i przeprowadza doświadczenie wykazujące rolę liścieni we wzroście i rozwoju siewki rośliny</wymaganie>
+            <wymaganie>określa rolę auksyn, giberelin, cytokinin, kwasu abscysynowego i etylenu w procesach wzrostu i rozwoju roślin; planuje i przeprowadza doświadczenie wykazujące wpływ etylenu na proces dojrzewania owoców</wymaganie>
+            <wymaganie>wykazuje związek procesu zakwitania roślin okrytonasiennych z fotoperiodem i temperaturą</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Reakcja na bodźce</nazwa>
+            <wymaganie>przedstawia nastie i tropizmy jako reakcje roślin na bodźce (światło, temperatura, grawitacja, bodźce mechaniczne i chemiczne); planuje i przeprowadza doświadczenie wykazujące różnice fototropizmu korzenia i pędu; planuje i przeprowadza doświadczenie wykazujące różnice geotropizmu korzenia i pędu; planuje i przeprowadza obserwację termonastii wybranych roślin</wymaganie>
+            <wymaganie>przedstawia rolę auksyn w ruchach wzrostowych roślin; planuje i przeprowadza doświadczenie wykazujące rolę stożka wzrostu w dominacji wierzchołkowej u roślin</wymaganie>
+        </rozdzial>
+    </dzial>
+    <dzial>
+        <nazwa>Różnorodność zwierząt</nazwa>
+        <wymaganie>rozróżnia tkankowe i beztkankowe, dwuwarstwowe i trójwarstwowe, pierwouste i wtórouste; bezżuchwowce i żuchwowce; owodniowce i bezowodniowce; łożyskowe i bezłożyskowe; skrzelodyszne i płucodyszne; zmiennocieplne i stałocieplne; na podstawie drzewa filogenetycznego wykazuje pokrewieństwo między grupami zwierząt</wymaganie>
+        <wymaganie>wykazuje związek trybu życia zwierząt z symetrią ich ciała (promienista i dwuboczna)</wymaganie>
+        <wymaganie>wymienia cechy pozwalające na rozróżnienie gąbek, parzydełkowców, płazińców, wrotków, nicieni, pierścienic, mięczaków, stawonogów (skorupiaków, pajęczaków, wijów i owadów) i szkarłupni</wymaganie>
+        <wymaganie>wymienia cechy pozwalające na rozróżnienie bezczaszkowców i kręgowców, a w ich obrębie krągłoustych, ryb, płazów, gadów, ssaków i ptaków; na podstawie tych cech identyfikuje organizm jako przedstawiciela jednej z tych grup</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Funkcjonowanie zwierząt</nazwa>
+        <rozdzial>
+            <nazwa> Podstawowe zasady budowy i funkcjonowania organizmu zwierzęcego</nazwa>
+            <wymaganie>rozpoznaje tkanki zwierzęce na preparacie mikroskopowym, na schemacie, mikrofotografii, na podstawie opisu i wykazuje związek ich budowy z pełnioną funkcją</wymaganie>
+            <wymaganie>przedstawia znaczenie połączeń międzykomórkowych w tkankach zwierzęcych</wymaganie>
+            <wymaganie>wykazuje związek budowy narządów z pełnioną przez nie funkcją</wymaganie>
+            <wymaganie>przedstawia powiązania funkcjonalne pomiędzy narządami w obrębie układu</wymaganie>
+            <wymaganie>przedstawia powiązania funkcjonalne pomiędzy układami narządów w obrębie organizmu</wymaganie>
+            <wymaganie>przedstawia mechanizmy warunkujące homeostazę (termoregulacja, osmoregulacja, stałość składu płynów ustrojowych, ciśnienie krwi, rytmy dobowe i sezonowe)</wymaganie>
+            <wymaganie>wykazuje związek między wielkością, aktywnością życiową, temperaturą ciała, a zapotrzebowaniem energetycznym organizmu</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Porównanie poszczególnych czynności życiowych zwierząt, z uwzględnieniem struktur odpowiedzialnych za ich przeprowadzanie</nazwa>
+            <podRozdzial>
+                <nazwa>Odżywianie się</nazwa>
+                <wymaganie>przedstawia adaptacje w budowie i funkcjonowaniu układów pokarmowych zwierząt do rodzaju pokarmu oraz sposobu jego pobierania</wymaganie>
+                <wymaganie>rozróżnia trawienie wewnątrzkomórkowe i zewnątrzkomórkowe u zwierząt</wymaganie>
+                <wymaganie>przedstawia rolę nieorganicznych i organicznych składników pokarmowych w odżywianiu człowieka, w szczególności białek pełnowartościowych i niepełnowartościowych, NNKT, błonnika, witamin</wymaganie>
+                <wymaganie>przedstawia związek budowy odcinków przewodu pokarmowego człowieka z pełnioną przez nie funkcją</wymaganie>
+                <wymaganie>przedstawia rolę wydzielin gruczołów i komórek gruczołowych w obróbce pokarmu</wymaganie>
+                <wymaganie>przedstawia proces trawienia poszczególnych składników pokarmowych w przewodzie pokarmowym człowieka; planuje i przeprowadza doświadczenie sprawdzające warunki trawienia skrobi</wymaganie>
+                <wymaganie>wyjaśnia rolę mikrobiomu układu pokarmowego w funkcjonowaniu organizmu</wymaganie>
+                <wymaganie>przedstawia proces wchłaniania poszczególnych produktów trawienia składników pokarmowych w przewodzie pokarmowym człowieka</wymaganie>
+                <wymaganie>przedstawia rolę wątroby w przemianach substancji wchłoniętych w przewodzie pokarmowym</wymaganie>
+                <wymaganie>przedstawia rolę ośrodka głodu i sytości w przyjmowaniu pokarmu przez człowieka</wymaganie>
+                <wymaganie>przedstawia zasady racjonalnego żywienia człowieka</wymaganie>
+                <wymaganie>przedstawia zaburzenia odżywiania (anoreksja, bulimia) i przewiduje ich skutki zdrowotne</wymaganie>
+                <wymaganie>podaje przyczyny (w tym uwarunkowania genetyczne) otyłości u człowieka oraz sposoby jej profilaktyki</wymaganie>
+                <wymaganie>przedstawia znaczenie badań diagnostycznych (gastroskopia, kolonoskopia, USG, próby wątrobowe, badania krwi i kału) w profilaktyce i leczeniu chorób układu pokarmowego, w tym raka żołądka, raka jelita grubego, zespołów złego wchłaniania, choroba Crohna</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Odporność</nazwa>
+                <wymaganie>rozróżnia odporność wrodzoną (nieswoistą) i nabytą (swoistą) oraz komórkową i humoralną</wymaganie>
+                <wymaganie>opisuje sposoby nabywania odporności swoistej (czynny i bierny)</wymaganie>
+                <wymaganie>przedstawia narządy i komórki układu odpornościowego człowieka</wymaganie>
+                <wymaganie>przedstawia rolę mediatorów układu odpornościowego w reakcji odpornościowej (białka ostrej fazy, cytokiny)</wymaganie>
+                <wymaganie>wyjaśnia, na czym polega zgodność tkankowa i przedstawia jej znaczenie w transplantologii</wymaganie>
+                <wymaganie>wyjaśnia istotę konfliktu serologicznego i przedstawia znaczenie podawania przeciwciał anty-Rh</wymaganie>
+                <wymaganie>analizuje zaburzenia funkcjonowania układu odpornościowego (nadmierna i osłabiona odpowiedź immunologiczna) oraz podaje sytuacje wymagające immunosupresji (przeszczepy, alergie, choroby autoimmunologiczne)</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Wymiana gazowa i krążenie</nazwa>
+                <wymaganie>przedstawia warunki umożliwiające i ułatwiające dyfuzję gazów przez powierzchnie wymiany gazowej</wymaganie>
+                <wymaganie>wykazuje związek lokalizacji (wewnętrzna i zewnętrzna) i budowy powierzchni wymiany gazowej ze środowiskiem życia</wymaganie>
+                <wymaganie>podaje przykłady narządów wymiany gazowej, wskazując grupy zwierząt, u których występują</wymaganie>
+                <wymaganie>porównuje, określając tendencje ewolucyjne, budowę płuc gromad kręgowców</wymaganie>
+                <wymaganie>wyjaśnia mechanizm wymiany gazowej w skrzelach, uwzględniając mechanizm przeciwprądowy</wymaganie>
+                <wymaganie>wyjaśnia mechanizm wentylacji płuc u płazów, gadów, ptaków i ssaków</wymaganie>
+                <wymaganie>wykazuje związek między budową i funkcją elementów układu oddechowego człowieka</wymaganie>
+                <wymaganie>opisuje wymianę gazową w tkankach i płucach, uwzględniając powinowactwo hemoglobiny do tlenu w różnych warunkach pH i temperatury krwi oraz ciśnienia parcjalnego tlenu w środowisku zewnętrznym; planuje i przeprowadza doświadczenie wykazujące różnice w zawartości dwutlenku węgla w powietrzu wdychanym i wydychanym</wymaganie>
+                <wymaganie>analizuje wpływ czynników zewnętrznych na funkcjonowanie układu oddechowego (tlenek węgla, pyłowe zanieczyszczenie powietrza, dym tytoniowy, smog)</wymaganie>
+                <wymaganie>przedstawia znaczenie badań diagnostycznych w profilaktyce chorób układu oddechowego (RTG klatki piersiowej, spirometria, bronchoskopia)</wymaganie>
+                <wymaganie>przedstawia rolę krwi w transporcie gazów oddechowych</wymaganie>
+                <wymaganie>wyjaśnia na podstawie schematu proces krzepnięcia krwi</wymaganie>
+                <wymaganie>przedstawia rodzaje układów krążenia u zwierząt (otwarte, zamknięte) oraz wykazuje związek między budową układu krążenia i jego funkcją u poznanych grup zwierząt</wymaganie>
+                <wymaganie>wykazuje związek między budową i funkcją naczyń krwionośnych</wymaganie>
+                <wymaganie>porównuje, określając tendencje ewolucyjne, budowę serc gromad kręgowców</wymaganie>
+                <wymaganie>przedstawia budowę serca człowieka oraz krążenie krwi w obiegu płucnym i ustrojowym</wymaganie>
+                <wymaganie>przedstawia automatyzm pracy serca</wymaganie>
+                <wymaganie>wykazuje związek między stylem życia i chorobami układu krążenia (miażdżyca, zawał mięśnia sercowego, choroba wieńcowa serca, nadciśnienie tętnicze, udar, żylaki); przedstawia znaczenie badań diagnostycznych w profilaktyce chorób układu krążenia (EKG, USG serca, angiokardiografia, badanie Holtera, pomiar ciśnienia tętniczego, badania krwi)</wymaganie>
+                <wymaganie>przedstawia funkcje elementów układu limfatycznego i przedstawia rolę limfy</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Wydalanie i osmoregulacja</nazwa>
+                <wymaganie>wykazuje konieczność regulacji osmotycznej u zwierząt żyjących w różnych środowiskach</wymaganie>
+                <wymaganie>przedstawia istotę procesu wydalania oraz wymienia substancje, które są wydalane z organizmu</wymaganie>
+                <wymaganie>wykazuje związek między środowiskiem życia zwierząt i rodzajem wydalanego azotowego produktu przemiany materii</wymaganie>
+                <wymaganie>przedstawia układy wydalnicze zwierząt i określa tendencje ewolucyjne w budowie kanalików wydalniczych</wymaganie>
+                <wymaganie>analizuje, na podstawie schematu, przebieg cyklu mocznikowego oraz wyróżnia substraty i produkty tego procesu</wymaganie>
+                <wymaganie>przedstawia związek między budową i funkcją narządów układu moczowego człowieka</wymaganie>
+                <wymaganie>przedstawia proces tworzenia moczu u człowieka oraz wyjaśnia znaczenie regulacji hormonalnej w tym procesie</wymaganie>
+                <wymaganie>analizuje znaczenie badań diagnostycznych w profilaktyce chorób układu moczowego (badania moczu, USG jamy brzusznej, urografia)</wymaganie>
+                <wymaganie>przedstawia dializę jako metodę postępowania medycznego przy niewydolności nerek</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Regulacja hormonalna</nazwa>
+                <wymaganie>przedstawia chemiczne zróżnicowanie cząsteczek sygnałowych występujących u zwierząt</wymaganie>
+                <wymaganie>wyjaśnia, w jaki sposób hormony steroidowe i niesteroidowe (pochodne aminokwasów i peptydowe) regulują czynności komórek docelowych</wymaganie>
+                <wymaganie>podaje lokalizacje gruczołów dokrewnych człowieka i wymienia hormony przez nie produkowane</wymaganie>
+                <wymaganie>wyjaśnia, w jaki sposób koordynowana jest aktywność układów hormonalnego i nerwowego (nadrzędna rola podwzgórza i przysadki)</wymaganie>
+                <wymaganie>wyjaśnia mechanizm sprzężenia zwrotnego ujemnego na osi podwzgórze – przysadka – gruczoł (hormony tarczycy, kory nadnerczy i gonad)</wymaganie>
+                <wymaganie>przedstawia antagonistyczne działanie hormonów na przykładzie regulacji poziomu glukozy i wapnia we krwi</wymaganie>
+                <wymaganie>wyjaśnia rolę hormonów w reakcji na stres u człowieka</wymaganie>
+                <wymaganie>przedstawia rolę hormonów w regulacji wzrostu, tempa metabolizmu i rytmu dobowego</wymaganie>
+                <wymaganie>przedstawia rolę hormonów tkankowych na przykładzie gastryny, erytropoetyny i histaminy</wymaganie>
+                <wymaganie>określa skutki niedoczynności i nadczynności gruczołów dokrewnych</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Regulacja nerwowa</nazwa>
+                <wymaganie>analizuje budowę układu nerwowego zwierząt bezkręgowych, wykazując związek między rozwojem tego układu i złożonością budowy zwierzęcia</wymaganie>
+                <wymaganie>przedstawia tendencje zmian w budowie mózgu kręgowców</wymaganie>
+                <wymaganie>wyjaśnia istotę powstawania i przewodzenia impulsu nerwowego; wykazuje związek między budową neuronu a przewodzeniem impulsu nerwowego</wymaganie>
+                <wymaganie>przedstawia działanie synapsy chemicznej, uwzględniając rolę przekaźników chemicznych; podaje przykłady tych neuroprzekaźników</wymaganie>
+                <wymaganie>przedstawia drogę impulsu nerwowego w łuku odruchowym</wymaganie>
+                <wymaganie>porównuje rodzaje odruchów i przedstawia rolę odruchów warunkowych w procesie uczenia się</wymaganie>
+                <wymaganie>przedstawia budowę i funkcje mózgu, rdzenia kręgowego i nerwów człowieka</wymaganie>
+                <wymaganie>przedstawia rolę autonomicznego układu nerwowego w utrzymaniu homeostazy oraz podaje lokalizacje ośrodków tego układu</wymaganie>
+                <wymaganie>wyróżnia rodzaje receptorów u zwierząt ze względu na rodzaj odbieranego bodźca</wymaganie>
+                <wymaganie>wykazuje związek pomiędzy lokalizacją receptorów w organizmie człowieka a pełnioną funkcją</wymaganie>
+                <wymaganie>przedstawia budowę oraz działanie oka i ucha człowieka; omawia podstawowe zasady higieny wzroku i słuchu</wymaganie>
+                <wymaganie>przedstawia budowę i rolę zmysłu smaku i węchu</wymaganie>
+                <wymaganie>wykazuje biologiczne znaczenie snu</wymaganie>
+                <wymaganie>wyjaśnia wpływ substancji psychoaktywnych, w tym dopalaczy, na funkcjonowanie organizmu</wymaganie>
+                <wymaganie>przedstawia wybrane choroby układu nerwowego (depresja, choroba Alzheimera, choroba Parkinsona, schizofrenia) oraz znaczenie ich wczesnej diagnostyki dla ograniczenia społecznych skutków tych chorób</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Poruszanie się</nazwa>
+                <wymaganie>przedstawia związek między środowiskiem życia a sposobem poruszania się</wymaganie>
+                <wymaganie>rozróżnia rodzaje ruchu zwierząt (rzęskowy, mięśniowy)</wymaganie>
+                <wymaganie>analizuje współdziałanie mięśni z różnymi typami szkieletu (hydrauliczny, zewnętrzny, wewnętrzny)</wymaganie>
+                <wymaganie>analizuje budowę szkieletu wewnętrznego (na schemacie, modelu, fotografii) jako wyraz adaptacji do środowiska i trybu życia</wymaganie>
+                <wymaganie>opisuje współdziałanie mięśni, ścięgien, stawów i kości w ruchu człowieka</wymaganie>
+                <wymaganie>przedstawia budowę mięśnia szkieletowego (filamenty aktynowe i miozynowe, miofibrylla, włókno mięśniowe, brzusiec mięśnia)</wymaganie>
+                <wymaganie>wyjaśnia, na podstawie schematu, molekularny mechanizm skurczu mięśnia</wymaganie>
+                <wymaganie>przedstawia sposoby pozyskiwania ATP niezbędnego do skurczu mięśnia</wymaganie>
+                <wymaganie>wykazuje znaczenie skurczu tężcowego w funkcjonowaniu układu ruchu</wymaganie>
+                <wymaganie>przedstawia antagonizm i współdziałanie mięśni w wykonywaniu ruchów</wymaganie>
+                <wymaganie>rozpoznaje rodzaje kości ze względu na ich kształt (długie, krótkie, płaskie, różnokształtne)</wymaganie>
+                <wymaganie>rozpoznaje (na modelu, schemacie, rysunku) rodzaje połączeń kości i określa ich funkcje</wymaganie>
+                <wymaganie>rozpoznaje (na modelu, schemacie, rysunku) kości szkieletu osiowego, obręczy i kończyn człowieka</wymaganie>
+                <wymaganie>wyjaśnia wpływ odżywiania się (w tym suplementacji) i aktywności fizycznej na rozwój oraz stan kości i mięśni człowieka</wymaganie>
+                <wymaganie>przedstawia wpływ substancji stosowanych w dopingu na organizm człowieka</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Pokrycie ciała i termoregulacja</nazwa>
+                <wymaganie>przedstawia różne rodzaje pokrycia ciała zwierząt i podaje ich funkcje</wymaganie>
+                <wymaganie>wykazuje związek między budową i funkcją skóry kręgowców</wymaganie>
+                <wymaganie>przedstawia przykłady sposobów regulacji temperatury ciała u zwierząt endotermicznych oraz ektotermicznych</wymaganie>
+                <wymaganie>przedstawia znaczenie estywacji (snu letniego) i hibernacji (snu zimowego) w funkcjonowaniu zwierząt</wymaganie>
+                <wymaganie>przedstawia rolę skóry w syntezie prowitaminy D; wykazuje związek nadmiernej ekspozycji na promieniowanie UV z procesem starzenia się skóry oraz zwiększonym ryzykiem wystąpienia chorób i zmian skórnych</wymaganie>
+            </podRozdzial>
+            <podRozdzial>
+                <nazwa>Rozmnażanie i rozwój</nazwa>
+                <wymaganie>porównuje bezpłciowe i płciowe rozmnażanie zwierząt w aspekcie zmienności genetycznej</wymaganie>
+                <wymaganie>przedstawia na przykładzie wybranych grup zwierząt sposoby rozmnażania bezpłciowego</wymaganie>
+                <wymaganie>przedstawia istotę rozmnażania płciowego</wymaganie>
+                <wymaganie>rozróżnia zapłodnienie zewnętrzne i wewnętrzne, jajorodność, jajożyworodność i żyworodność oraz podaje przykłady grup zwierząt, u których występuje</wymaganie>
+                <wymaganie>wykazuje związek budowy jaja ze środowiskiem życia</wymaganie>
+                <wymaganie>wykazuje związek ilości żółtka w jaju z typem rozwoju u zwierząt</wymaganie>
+                <wymaganie>analizuje na podstawie schematu cykle rozwojowe zwierząt pasożytniczych; rozróżnia żywicieli pośrednich i ostatecznych</wymaganie>
+                <wymaganie>rozróżnia rozwój prosty i złożony oraz podaje przykłady zwierząt, u których występuje</wymaganie>
+                <wymaganie>porównuje przeobrażenie zupełne i niezupełne u owadów, uwzględniając rolę poczwarki w cyklu rozwojowym</wymaganie>
+                <wymaganie>wykazuje rolę hormonów (juwenilny i ekdyzon) w procesie przeobrażenia u owadów</wymaganie>
+                <wymaganie>porównuje na podstawie schematów etapy rozwoju zarodkowego zwierząt pierwoustych i wtóroustych</wymaganie>
+                <wymaganie>przedstawia rolę błon płodowych w rozwoju zarodkowym owodniowców</wymaganie>
+                <wymaganie>przedstawia budowę i funkcje narządów układu rozrodczego męskiego i żeńskiego człowieka</wymaganie>
+                <wymaganie>analizuje proces gametogenezy u człowieka i wskazuje podobieństwa oraz różnice w przebiegu powstawania gamet męskich i żeńskich</wymaganie>
+                <wymaganie>przedstawia przebieg cyklu menstruacyjnego, z uwzględnieniem działania hormonów przysadkowych i jajnikowych w jego regulacji</wymaganie>
+                <wymaganie>przedstawia rolę syntetycznych hormonów (progesteronu i estrogenów) w regulacji cyklu menstruacyjnego</wymaganie>
+                <wymaganie>przedstawia przebieg ciąży z uwzględnieniem funkcji łożyska; analizuje wpływ czynników wewnętrznych i zewnętrznych na przebieg ciąży; wyjaśnia istotę i znaczenie badań prenatalnych</wymaganie>
+                <wymaganie>przedstawia etapy ontogenezy człowieka, uwzględniając skutki wydłużającego się okresu starości</wymaganie>
+            </podRozdzial>
+        </rozdzial>
+    </dzial>
+    <dzial>
+        <nazwa>Wirusy, wiroidy, priony</nazwa>
+        <rozdzial>
+            <nazwa>Wirusy – pasożyty molekularne</nazwa>
+            <wymaganie>przedstawia budowę wirusów jako bezkomórkowych form infekcyjnych</wymaganie>
+            <wymaganie>przedstawia różnorodność morfologiczną i genetyczną wirusów</wymaganie>
+            <wymaganie>wykazuje związek budowy wirusów ze sposobem infekowania komórek</wymaganie>
+            <wymaganie>porównuje cykle infekcyjne wirusów (lityczny i lizogeniczny)</wymaganie>
+            <wymaganie>wyjaśnia mechanizm odwrotnej transkrypcji i jego znaczenie w namnażaniu retrowirusów</wymaganie>
+            <wymaganie>przedstawia drogi rozprzestrzeniania się i zasady profilaktyki chorób człowieka wywoływanych przez wirusy (wścieklizna, AIDS, Heinego-Medina, schorzenia wywołane zakażeniem HPV, grypa, odra, ospa, różyczka, świnka, WZW typu A, B i C, niektóre typy nowotworów)</wymaganie>
+            <wymaganie>przedstawia drogi rozprzestrzeniania się chorób wirusowych zwierząt (nosówka, wścieklizna, pryszczyca) i roślin (mozaika tytoniowa, smugowatość ziemniaka) oraz ich skutki</wymaganie>
+            <wymaganie>przedstawia znaczenie wirusów w przyrodzie i dla człowieka</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Wiroidy i priony – swoiste czynniki infekcyjne</nazwa>
+            <wymaganie>przedstawia wiroidy jako jednoniciowe koliste cząsteczki RNA infekujące rośliny</wymaganie>
+            <wymaganie>opisuje priony jako białkowe czynniki infekcyjne będące przyczyną niektórych chorób degeneracyjnych OUN (choroba Creutzfeldta-Jacoba, choroba szalonych krów BSE)</wymaganie>
+        </rozdzial>
+        
+    </dzial>
+    <dzial>
+        <nazwa>Ekspresja informacji genetycznej</nazwa>
+        <wymaganie>porównuje genom komórki prokariotycznej i eukariotycznej</wymaganie>
+        <wymaganie>porównuje strukturę genu organizmu prokariotycznego i eukariotycznego</wymaganie>
+        <wymaganie>opisuje proces transkrypcji z uwzględnieniem roli polimerazy RNA</wymaganie>
+        <wymaganie>opisuje proces obróbki potranskrypcyjnej u organizmów eukariotycznych</wymaganie>
+        <wymaganie>przedstawia cechy kodu genetycznego</wymaganie>
+        <wymaganie>opisuje proces translacji i przedstawia znaczenie modyfikacji potranslacyjnej białek</wymaganie>
+        <wymaganie>porównuje przebieg ekspresji informacji genetycznej w komórce prokariotycznej i eukariotycznej</wymaganie>
+        <wymaganie>przedstawia na przykładzie operonu laktozowego i tryptofanowego regulację ekspresji informacji genetycznej u organizmów prokariotycznych</wymaganie>
+        <wymaganie>przedstawia istotę regulacji ekspresji genów u organizmów eukariotycznych</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Genetyka klasyczna</nazwa>
+        <rozdzial>
+            <nazwa>Dziedziczenie cech</nazwa>
+            <wymaganie>wykazuje na podstawie opisu wyników badań Hammerlinga, Griffitha, Avery’ego, Hershey’a i Chase’a znaczenie jądra komórkowego i DNA w przekazywaniu informacji genetycznej</wymaganie>
+            <wymaganie>przedstawia znaczenie badań Mendla w odkryciu podstawowych praw dziedziczenia cech</wymaganie>
+            <wymaganie>zapisuje i analizuje krzyżówki (w tym krzyżówki testowe) oraz określa prawdopodobieństwo wystąpienia określonych genotypów i fenotypów oraz stosunek fenotypowy w pokoleniach potomnych, w tym cech warunkowanych przez allele wielokrotne</wymaganie>
+            <wymaganie>przedstawia dziedziczenie jednogenowe, dwugenowe i wielogenowe (dominacja pełna, dominacja niepełna, kodominacja, współdziałanie dwóch lub większej liczby genów)</wymaganie>
+            <wymaganie>przedstawia główne założenia chromosomowej teorii dziedziczności Morgana</wymaganie>
+            <wymaganie>analizuje dziedziczenie cech sprzężonych; oblicza odległość między genami; na podstawie odległości między genami określa kolejność ich ułożenia na chromosomie</wymaganie>
+            <wymaganie>wyjaśnia istotę dziedziczenia pozajądrowego</wymaganie>
+            <wymaganie>przedstawia determinację oraz dziedziczenie płci</wymaganie>
+            <wymaganie>przedstawia dziedziczenie cech sprzężonych z płcią</wymaganie>
+            <wymaganie>analizuje rodowody i na ich podstawie ustala sposób dziedziczenia danej cechy</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Zmienność organizmów</nazwa>
+            <wymaganie>opisuje zmienność jako różnorodność fenotypową osobników w populacji</wymaganie>
+            <wymaganie>przedstawia typy zmienności: środowiskowa i genetyczna (rekombinacyjna i mutacyjna)</wymaganie>
+            <wymaganie>wyjaśnia na przykładach wpływ czynników środowiska na plastyczność fenotypów</wymaganie>
+            <wymaganie>rozróżnia ciągłą i nieciągłą zmienność cechy; wyjaśnia genetyczne podłoże tych zmienności</wymaganie>
+            <wymaganie>przedstawia źródła zmienności rekombinacyjnej</wymaganie>
+            <wymaganie>przedstawia rodzaje mutacji genowych oraz określa ich skutki</wymaganie>
+            <wymaganie>przedstawia rodzaje aberracji chromosomowych (strukturalnych i liczbowych) oraz określa ich skutki</wymaganie>
+            <wymaganie>określa na podstawie analizy rodowodu lub kariotypu podłoże genetyczne chorób człowieka (mukowiscydoza, alkaptonuria, fenyloketonuria, anemia sierpowata, albinizm, galaktozemia, pląsawica Huntingtona, hemofilia, daltonizm, dystrofia mięśniowa Duchenne'a, krzywica oporna na witaminę D3; zespół cri-du-chat i przewlekła białaczka szpikowa, zespół Klinefeltera, zespół Turnera, zespół Downa, neuropatia nerwu wzrokowego Lebera)</wymaganie>
+            <wymaganie>wykazuje związek pomiędzy narażeniem organizmu na działanie czynników mutagennych (fizycznych, chemicznych, biologicznych) a zwiększonym ryzykiem wystąpienia chorób</wymaganie>
+            <wymaganie>przedstawia transformację nowotworową komórek jako następstwo mutacji w obrębie genów kodujących białka regulujące cykl komórkowy oraz odpowiedzialnych za naprawę DNA</wymaganie>
+        </rozdzial>
+    </dzial>
+    <dzial>
+        <nazwa>Biotechnologia. Podstawy inżynierii genetycznej</nazwa>
+        <wymaganie>rozróżnia biotechnologię tradycyjną i molekularną</wymaganie>
+        <wymaganie>przedstawia współczesne zastosowania metod biotechnologii tradycyjnej w przemyśle farmaceutycznym, spożywczym, rolnictwie, biodegradacji i oczyszczaniu ścieków</wymaganie>
+        <wymaganie>przedstawia narzędzia wykorzystywane w biotechnologii molekularnej (enzymy: polimerazy, ligazy i enzymy restrykcyjne) i określa ich zastosowania</wymaganie>
+        <wymaganie>przedstawia istotę technik stosowanych w inżynierii genetycznej (hybrydyzacja DNA, analiza restrykcyjna i elektroforeza DNA, metoda PCR, sekwencjonowanie DNA)</wymaganie>
+        <wymaganie>przedstawia zastosowania wybranych technik inżynierii genetycznej w medycynie sądowej, kryminalistyce, diagnostyce chorób</wymaganie>
+        <wymaganie>wyjaśnia, czym jest organizm transgeniczny i GMO; przedstawia sposoby otrzymywania organizmów transgenicznych</wymaganie>
+        <wymaganie>przedstawia potencjalne korzyści i zagrożenia wynikające z zastosowania organizmów modyfikowanych genetycznie w rolnictwie, przemyśle, medycynie i badaniach naukowych; podaje przykłady produktów otrzymanych z wykorzystaniem modyfikowanych genetycznie organizmów</wymaganie>
+        <wymaganie>opisuje klonowanie organizmów metodą transferu jąder komórkowych i metodą rozdziału komórek zarodka na wczesnych etapach jego rozwoju oraz przedstawia zastosowania tych metod</wymaganie>
+        <wymaganie>przedstawia zastosowania biotechnologii molekularnej w badaniach ewolucyjnych i systematyce organizmów</wymaganie>
+        <wymaganie>przedstawia sposoby otrzymywania i pozyskiwania komórek macierzystych oraz ich zastosowania w medycynie</wymaganie>
+        <wymaganie>przedstawia sytuacje, w których zasadne jest korzystanie z poradnictwa genetycznego</wymaganie>
+        <wymaganie>wyjaśnia istotę terapii genowej</wymaganie>
+        <wymaganie>przedstawia szanse i zagrożenia wynikające z zastosowań biotechnologii molekularnej</wymaganie>
+        <wymaganie>dyskutuje o problemach społecznych i etycznych związanych z rozwojem inżynierii genetycznej oraz formułuje własne opinie w tym zakresie</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Ewolucja</nazwa>
+        <wymaganie>przedstawia historię myśli ewolucyjnej</wymaganie>
+        <wymaganie>przedstawia podstawowe źródła wiedzy o mechanizmach i przebiegu ewolucji</wymaganie>
+        <wymaganie>określa pokrewieństwo ewolucyjne gatunków na podstawie analizy drzewa filogenetycznego</wymaganie>
+        <wymaganie>przedstawia rodzaje zmienności i wykazuje znaczenie zmienności genetycznej w procesie ewolucji</wymaganie>
+        <wymaganie>wyjaśnia mechanizm działania doboru naturalnego i przedstawia jego rodzaje (stabilizujący, kierunkowy i różnicujący)</wymaganie>
+        <wymaganie>wykazuje, że dzięki doborowi naturalnemu organizmy zyskują nowe cechy adaptacyjne</wymaganie>
+        <wymaganie>określa warunki, w jakich zachodzi dryf genetyczny</wymaganie>
+        <wymaganie>przedstawia przyczyny zmian częstości alleli w populacji</wymaganie>
+        <wymaganie>przedstawia założenia prawa Hardy’ego-Weinberga</wymaganie>
+        <wymaganie>stosuje równanie Hardy’ego-Weinberga do obliczenia częstości alleli, genotypów i fenotypów w populacji</wymaganie>
+        <wymaganie>wyjaśnia, dlaczego mimo działania doboru naturalnego w populacji ludzkiej utrzymują się allele warunkujące choroby genetyczne</wymaganie>
+        <wymaganie>przedstawia gatunek jako izolowaną pulę genową</wymaganie>
+        <wymaganie>przedstawia mechanizm powstawania gatunków wskutek specjacji allopatrycznej i sympatrycznej</wymaganie>
+        <wymaganie>opisuje warunki, w jakich zachodzi radiacja adaptacyjna oraz ewolucja zbieżna</wymaganie>
+        <wymaganie>rozpoznaje, na podstawie opisu, schematu, rysunku, konwergencję i dywergencję</wymaganie>
+        <wymaganie>przedstawia hipotezy wyjaśniające najważniejsze etapy biogenezy</wymaganie>
+        <wymaganie>porządkuje chronologicznie wydarzenia z historii życia na Ziemi; wykazuje, że zmiany warunków środowiskowych miały wpływ na przebieg ewolucji</wymaganie>
+        <wymaganie>porządkuje chronologicznie formy kopalne człowiekowatych wskazując na ich cechy charakterystyczne</wymaganie>
+        <wymaganie>określa pokrewieństwo człowieka z innymi zwierzętami na podstawie analizy drzewa rodowego</wymaganie>
+        <wymaganie>przedstawia podobieństwa między człowiekiem a innymi naczelnymi; przedstawia cechy odróżniające człowieka od małp człekokształtnych</wymaganie>
+        <wymaganie>analizuje różnorodne źródła informacji dotyczące ewolucji człowieka i przedstawia tendencje zmian ewolucyjnych</wymaganie>
+    </dzial>
+    <dzial>
+        <nazwa>Ekologia</nazwa>
+        <rozdzial>
+            <nazwa>Ekologia organizmów</nazwa>
+            <wymaganie>rozróżnia czynniki biotyczne i abiotyczne oddziałujące na organizmy</wymaganie>
+            <wymaganie>przedstawia elementy niszy ekologicznej organizmu; rozróżnia niszę ekologiczną od siedliska</wymaganie>
+            <wymaganie>wyjaśnia, czym jest tolerancja ekologiczna; planuje i przeprowadza doświadczenie mające na celu zbadanie zakresu tolerancji ekologicznej w odniesieniu do wybranego czynnika środowiska</wymaganie>
+            <wymaganie>wykazuje znaczenie organizmów o wąskim zakresie tolerancji ekologicznej w bioindykacji</wymaganie>
+            <wymaganie>określa środowisko życia organizmu na podstawie jego tolerancji ekologicznej na określony czynnik</wymaganie>
+            <wymaganie>przedstawia adaptacje roślin różnych form ekologicznych do siedlisk życia</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Ekologia populacji</nazwa>
+            <wymaganie>przedstawia istotę teorii metapopulacji oraz określa znaczenie migracji w przepływie genów dla przetrwania gatunku w środowisku</wymaganie>
+            <wymaganie>charakteryzuje populację, określając jej cechy (liczebność, zagęszczenie, struktura przestrzenna, wiekowa i płciowa); dokonuje obserwacji cech populacji wybranego gatunku</wymaganie>
+            <wymaganie>przewiduje zmiany liczebności populacji, dysponując danymi o jej liczebności, rozrodczości, śmiertelności i migracjach osobników</wymaganie>
+            <wymaganie>opisuje modele wzrostu liczebności populacji</wymaganie>
+        </rozdzial>
+        <rozdzial>
+            <nazwa>Ekologia ekosystemu. Ochrona i gospodarka ekosystemami</nazwa>
+            <wymaganie>wyjaśnia znaczenie zależności nieantagonistycznych (mutualizm obligatoryjny i fakultatywny, komensalizm) w ekosystemie i podaje ich przykłady</wymaganie>
+            <wymaganie>przedstawia skutki konkurencji wewnątrzgatunkowej i międzygatunkowej</wymaganie>
+            <wymaganie>planuje i przeprowadza doświadczenie wykazujące oddziaływania antagonistyczne między osobnikami wybranych gatunków</wymaganie>
+            <wymaganie>wyjaśnia zmiany liczebności populacji w układzie zjadający i zjadany</wymaganie>
+            <wymaganie>przedstawia adaptacje drapieżników, pasożytów i roślinożerców do zdobywania pokarmu</wymaganie>
+            <wymaganie>przedstawia adaptacje obronne ofiar drapieżników, żywicieli pasożytów oraz zjadanych roślin</wymaganie>
+            <wymaganie>określa zależności pokarmowe w ekosystemie na podstawie analizy fragmentów sieci pokarmowych; przedstawia zależności pokarmowe w biocenozie w postaci łańcuchów pokarmowych</wymaganie>
+            <wymaganie>wyjaśnia przepływ energii i obieg materii w ekosystemie</wymaganie>
+            <wymaganie>opisuje obieg węgla i azotu w przyrodzie, wykazując rolę różnych grup organizmów w tych obiegach</wymaganie>
+            <wymaganie>przedstawia sukcesję jako proces przemiany ekosystemu w czasie skutkujący bogaceniem się układu w węgiel i azot oraz zmianą składu gatunkowego; rozróżnia sukcesję pierwotną i wtórną</wymaganie>
+        </rozdzial>
+    </dzial>
+    <dzial>
+        <nazwa>Różnorodność biologiczna, jej zagrożenia i ochrona</nazwa>
+        <wymaganie>przedstawia typy różnorodności biologicznej: genetyczną, gatunkową i ekosystemową</wymaganie>
+        <wymaganie>wymienia główne czynniki geograficzne kształtujące różnorodność gatunkową i ekosystemową Ziemi (klimat, ukształtowanie powierzchni); podaje przykłady miejsc charakteryzujących się szczególnym bogactwem gatunkowym; podaje przykłady endemitów jako gatunków unikatowych dla danego miejsca regionu; wykazuje związek pomiędzy rozmieszczeniem biomów a warunkami klimatycznymi na kuli ziemskiej</wymaganie>
+        <wymaganie>przedstawia wpływ zlodowaceń na rozmieszczenie gatunków; podaje przykłady gatunków reliktowych jako dowód ewolucji świata żywego</wymaganie>
+        <wymaganie>wykazuje wpływ działalności człowieka (intensyfikacji rolnictwa, urbanizacji, industrializacji, rozwoju komunikacji i turystyki) na różnorodność biologiczną</wymaganie>
+        <wymaganie>wyjaśnia znaczenie restytucji i reintrodukcji gatunków dla zachowania różnorodności biologicznej; podaje przykłady restytuowanych gatunków</wymaganie>
+        <wymaganie>uzasadnia konieczność zachowania tradycyjnych odmian roślin i tradycyjnych ras zwierząt dla zachowania różnorodności genetycznej</wymaganie>
+        <wymaganie>uzasadnia konieczność stosowania różnych form ochrony przyrody, w tym Natura 2000</wymaganie>
+        <wymaganie>uzasadnia konieczność współpracy międzynarodowej (CITES, Konwencja o Różnorodności Biologicznej, Agenda 21) dla ochrony różnorodności biologicznej</wymaganie>
+        <wymaganie>przedstawia istotę zrównoważonego rozwoju</wymaganie>
+    </dzial>
+</podstawaProgamowa>
